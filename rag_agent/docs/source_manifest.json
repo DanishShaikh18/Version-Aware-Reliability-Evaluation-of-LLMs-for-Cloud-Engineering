@@ -1,0 +1,292 @@
+[
+  {
+    "document_filename": "gcp_fundamentals.md",
+    "source_title": "Google Cloud overview",
+    "official_url": "https://cloud.google.com/docs/overview",
+    "source_organization": "Google Cloud",
+    "topic": "GCP fundamentals, resource hierarchy",
+    "version_context": "Google Cloud SDK 576.0.0, core 2026.07.10",
+    "date_accessed": "2026-10-16",
+    "description": "Overview of Google Cloud, resource hierarchy (Organization, Folder, Project, Resource), IAM roles, service accounts, ADC."
+  },
+  {
+    "document_filename": "gcp_fundamentals.md",
+    "source_title": "Resource Manager: Cloud Platform Resource Hierarchy",
+    "official_url": "https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy",
+    "source_organization": "Google Cloud",
+    "topic": "Resource hierarchy: organizations, folders, projects",
+    "version_context": "Current as of 2026-10-16",
+    "date_accessed": "2026-10-16",
+    "description": "Detailed description of the resource hierarchy tree and policy inheritance."
+  },
+  {
+    "document_filename": "gcp_fundamentals.md",
+    "source_title": "IAM overview",
+    "official_url": "https://cloud.google.com/iam/docs/overview",
+    "source_organization": "Google Cloud",
+    "topic": "IAM, roles, principals, service accounts",
+    "version_context": "Current as of 2026-10-16",
+    "date_accessed": "2026-10-16",
+    "description": "Principals, role types (basic, predefined, custom), and service accounts in Google Cloud IAM."
+  },
+  {
+    "document_filename": "gcp_fundamentals.md",
+    "source_title": "Application Default Credentials",
+    "official_url": "https://cloud.google.com/docs/authentication/application-default-credentials",
+    "source_organization": "Google Cloud",
+    "topic": "ADC, authentication",
+    "version_context": "Google Cloud SDK 576.0.0",
+    "date_accessed": "2026-10-16",
+    "description": "How ADC discovers credentials: GOOGLE_APPLICATION_CREDENTIALS env var, gcloud login, attached service account."
+  },
+  {
+    "document_filename": "gcp_fundamentals.md",
+    "source_title": "Install the Google Cloud CLI",
+    "official_url": "https://cloud.google.com/sdk/docs/install",
+    "source_organization": "Google Cloud",
+    "topic": "gcloud CLI installation",
+    "version_context": "Google Cloud SDK 576.0.0",
+    "date_accessed": "2026-10-16",
+    "description": "Official installation instructions for the Google Cloud CLI on Windows, macOS, and Linux."
+  },
+  {
+    "document_filename": "cloud_run.md",
+    "source_title": "What is Cloud Run",
+    "official_url": "https://cloud.google.com/run/docs/overview/what-is-cloud-run",
+    "source_organization": "Google Cloud",
+    "topic": "Cloud Run services and jobs",
+    "version_context": "Current as of 2026-10-16",
+    "date_accessed": "2026-10-16",
+    "description": "Overview of Cloud Run: managed serverless container platform, services vs jobs, scale-to-zero."
+  },
+  {
+    "document_filename": "cloud_run.md",
+    "source_title": "Deploying from source code",
+    "official_url": "https://cloud.google.com/run/docs/deploying-source-code",
+    "source_organization": "Google Cloud",
+    "topic": "gcloud run deploy --source, Buildpacks",
+    "version_context": "gcloud CLI 576.0.0; Cloud Run managed platform",
+    "date_accessed": "2026-10-16",
+    "description": "Deploying a Python application to Cloud Run from source using gcloud run deploy --source and Cloud Buildpacks."
+  },
+  {
+    "document_filename": "cloud_run.md",
+    "source_title": "Deploy a Python service to Cloud Run",
+    "official_url": "https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-python-service",
+    "source_organization": "Google Cloud",
+    "topic": "Python Cloud Run quickstart",
+    "version_context": "Current as of 2026-10-16",
+    "date_accessed": "2026-10-16",
+    "description": "Quickstart for deploying a Python Flask application to Cloud Run including requirements.txt and main.py."
+  },
+  {
+    "document_filename": "gemini_vertex_ai.md",
+    "source_title": "Vertex AI Generative AI overview",
+    "official_url": "https://cloud.google.com/vertex-ai/generative-ai/docs/overview",
+    "source_organization": "Google Cloud",
+    "topic": "Gemini on Vertex AI",
+    "version_context": "google-genai 2.31.0; google-adk 2.12.0",
+    "date_accessed": "2026-10-16",
+    "description": "Overview of Gemini models available on Vertex AI, SDK approach, and distinction from AI Studio."
+  },
+  {
+    "document_filename": "gemini_vertex_ai.md",
+    "source_title": "Google Gen AI SDK documentation",
+    "official_url": "https://googleapis.github.io/python-genai/",
+    "source_organization": "Google",
+    "topic": "google-genai Python SDK",
+    "version_context": "google-genai 2.31.0",
+    "date_accessed": "2026-10-16",
+    "description": "Official reference for the google-genai Python SDK: Client configuration, generate_content, types."
+  },
+  {
+    "document_filename": "gemini_vertex_ai.md",
+    "source_title": "google-genai on PyPI",
+    "official_url": "https://pypi.org/project/google-genai/",
+    "source_organization": "Google",
+    "topic": "google-genai installation and version",
+    "version_context": "google-genai 2.31.0",
+    "date_accessed": "2026-10-16",
+    "description": "PyPI package page for google-genai; used to confirm installed version 2.31.0."
+  },
+  {
+    "document_filename": "cloud_networking.md",
+    "source_title": "VPC overview",
+    "official_url": "https://cloud.google.com/vpc/docs/overview",
+    "source_organization": "Google Cloud",
+    "topic": "VPC networks, subnets, firewall rules",
+    "version_context": "Google Cloud SDK 576.0.0",
+    "date_accessed": "2026-10-16",
+    "description": "Overview of Google Cloud VPC networks: auto vs custom mode, subnets, routing, firewall rules."
+  },
+  {
+    "document_filename": "cloud_networking.md",
+    "source_title": "VPC firewall rules overview",
+    "official_url": "https://cloud.google.com/vpc/docs/firewalls",
+    "source_organization": "Google Cloud",
+    "topic": "Firewall rules, ingress/egress, priorities",
+    "version_context": "Current as of 2026-10-16",
+    "date_accessed": "2026-10-16",
+    "description": "VPC firewall rules: stateful behaviour, ingress/egress, priorities, network tags, service account targets."
+  },
+  {
+    "document_filename": "cloud_networking.md",
+    "source_title": "Cloud NAT overview",
+    "official_url": "https://cloud.google.com/nat/docs/overview",
+    "source_organization": "Google Cloud",
+    "topic": "Cloud NAT, outbound internet access",
+    "version_context": "Current as of 2026-10-16",
+    "date_accessed": "2026-10-16",
+    "description": "Cloud NAT: allows VMs without external IPs to access the internet via a managed NAT gateway."
+  },
+  {
+    "document_filename": "cloud_networking.md",
+    "source_title": "Private Google Access",
+    "official_url": "https://cloud.google.com/vpc/docs/private-google-access",
+    "source_organization": "Google Cloud",
+    "topic": "Private Google Access, API access without external IP",
+    "version_context": "Current as of 2026-10-16",
+    "date_accessed": "2026-10-16",
+    "description": "Private Google Access allows VMs without external IPs to reach Google APIs via internal IP ranges."
+  },
+  {
+    "document_filename": "terraform_gcp.md",
+    "source_title": "Terraform documentation",
+    "official_url": "https://developer.hashicorp.com/terraform/docs",
+    "source_organization": "HashiCorp",
+    "topic": "Terraform concepts: providers, resources, state, workflow",
+    "version_context": "Terraform CLI >= 1.5.0; Google provider ~> 6.0",
+    "date_accessed": "2026-10-16",
+    "description": "Core Terraform concepts: providers, resources, variables, outputs, state, and the init/plan/apply/destroy workflow."
+  },
+  {
+    "document_filename": "terraform_gcp.md",
+    "source_title": "Terraform install",
+    "official_url": "https://developer.hashicorp.com/terraform/install",
+    "source_organization": "HashiCorp",
+    "topic": "Terraform CLI installation",
+    "version_context": "Terraform CLI >= 1.5.0",
+    "date_accessed": "2026-10-16",
+    "description": "Official install instructions for the Terraform CLI on Windows, macOS, and Linux."
+  },
+  {
+    "document_filename": "terraform_gcp.md",
+    "source_title": "Terraform Google provider documentation",
+    "official_url": "https://registry.terraform.io/providers/hashicorp/google/latest/docs",
+    "source_organization": "HashiCorp / Google",
+    "topic": "Google Terraform provider, ADC authentication",
+    "version_context": "hashicorp/google ~> 6.0",
+    "date_accessed": "2026-10-16",
+    "description": "Google provider for Terraform: configuration, authentication via ADC, available resources."
+  },
+  {
+    "document_filename": "kubernetes.md",
+    "source_title": "Kubernetes documentation",
+    "official_url": "https://kubernetes.io/docs/home/",
+    "source_organization": "The Kubernetes Authors / CNCF",
+    "topic": "Kubernetes fundamentals",
+    "version_context": "Kubernetes 1.31.x (client version); verify server version for your cluster",
+    "date_accessed": "2026-10-16",
+    "description": "Official Kubernetes documentation: concepts, workloads, services, kubectl reference."
+  },
+  {
+    "document_filename": "kubernetes.md",
+    "source_title": "Kubernetes Deployments",
+    "official_url": "https://kubernetes.io/docs/concepts/workloads/controllers/deployment/",
+    "source_organization": "The Kubernetes Authors / CNCF",
+    "topic": "Deployment, ReplicaSet, rolling updates",
+    "version_context": "apiVersion: apps/v1",
+    "date_accessed": "2026-10-16",
+    "description": "Deployment controller: managing ReplicaSets, rolling updates, rollbacks, and YAML structure."
+  },
+  {
+    "document_filename": "kubernetes.md",
+    "source_title": "GKE documentation",
+    "official_url": "https://cloud.google.com/kubernetes-engine/docs",
+    "source_organization": "Google Cloud",
+    "topic": "Google Kubernetes Engine (GKE)",
+    "version_context": "Current GKE as of 2026-10-16",
+    "date_accessed": "2026-10-16",
+    "description": "GKE-specific concepts: cluster creation, node pools, Workload Identity, Autopilot."
+  },
+  {
+    "document_filename": "github_actions.md",
+    "source_title": "GitHub Actions documentation",
+    "official_url": "https://docs.github.com/en/actions",
+    "source_organization": "GitHub (Microsoft)",
+    "topic": "GitHub Actions workflows, jobs, triggers",
+    "version_context": "Current as of 2026-10-16",
+    "date_accessed": "2026-10-16",
+    "description": "GitHub Actions concepts: workflows, jobs, steps, runners, actions, triggers, secrets."
+  },
+  {
+    "document_filename": "github_actions.md",
+    "source_title": "Configuring OpenID Connect in Google Cloud Platform",
+    "official_url": "https://docs.github.com/en/actions/security-for-github-actions/security-hardening-your-deployments/configuring-openid-connect-in-google-cloud-platform",
+    "source_organization": "GitHub (Microsoft)",
+    "topic": "Workload Identity Federation for GitHub Actions",
+    "version_context": "google-github-actions/auth@v2",
+    "date_accessed": "2026-10-16",
+    "description": "Setting up Workload Identity Federation (WIF) for keyless GCP authentication from GitHub Actions."
+  },
+  {
+    "document_filename": "github_actions.md",
+    "source_title": "google-github-actions/auth",
+    "official_url": "https://github.com/google-github-actions/auth",
+    "source_organization": "Google",
+    "topic": "GCP authentication action for GitHub Actions",
+    "version_context": "google-github-actions/auth@v2",
+    "date_accessed": "2026-10-16",
+    "description": "Official Google action for authenticating to GCP from GitHub Actions, supporting WIF and service account keys."
+  },
+  {
+    "document_filename": "cloud_apis_python.md",
+    "source_title": "Client libraries explained",
+    "official_url": "https://cloud.google.com/apis/docs/client-libraries-explained",
+    "source_organization": "Google Cloud",
+    "topic": "GCP client libraries vs REST API",
+    "version_context": "Current as of 2026-10-16",
+    "date_accessed": "2026-10-16",
+    "description": "Explanation of Google Cloud client libraries vs direct REST API calls; when to use each approach."
+  },
+  {
+    "document_filename": "cloud_apis_python.md",
+    "source_title": "Authentication for client libraries",
+    "official_url": "https://cloud.google.com/docs/authentication/client-libraries",
+    "source_organization": "Google Cloud",
+    "topic": "ADC with Python client libraries",
+    "version_context": "Current as of 2026-10-16",
+    "date_accessed": "2026-10-16",
+    "description": "How Google Cloud Python client libraries discover and use ADC for authentication."
+  },
+  {
+    "document_filename": "cloud_apis_python.md",
+    "source_title": "Cloud Storage client library for Python",
+    "official_url": "https://cloud.google.com/storage/docs/reference/libraries#client-libraries-install-python",
+    "source_organization": "Google Cloud",
+    "topic": "google-cloud-storage Python library",
+    "version_context": "google-cloud-storage >= 2.18.0",
+    "date_accessed": "2026-10-16",
+    "description": "Python client library for Google Cloud Storage: installation, authentication, basic usage example."
+  },
+  {
+    "document_filename": "adk_python.md",
+    "source_title": "Agent Development Kit documentation",
+    "official_url": "https://google.github.io/adk-docs/",
+    "source_organization": "Google",
+    "topic": "ADK overview, LlmAgent, tools, sessions",
+    "version_context": "google-adk 2.12.0",
+    "date_accessed": "2026-10-16",
+    "description": "ADK overview: LlmAgent, tool registration, adk web, app discovery, sessions, events, and tracing."
+  },
+  {
+    "document_filename": "adk_python.md",
+    "source_title": "google-adk on PyPI",
+    "official_url": "https://pypi.org/project/google-adk/",
+    "source_organization": "Google",
+    "topic": "ADK package version",
+    "version_context": "google-adk 2.12.0",
+    "date_accessed": "2026-10-16",
+    "description": "PyPI page for google-adk; used to confirm installed version 2.12.0."
+  }
+]
